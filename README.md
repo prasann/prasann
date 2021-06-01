@@ -7,8 +7,12 @@
 <p><b>💻 Full stack developer</b> with expertise in building UIs and automating infrastructure. I code in Java, Javascript, Ruby, Clojure </p>
 <p> 🏢 Works as  <b> Lead Developer </b> <a href="https://github.com/thoughtworks">@thoughtworks</a>. 🏙 Lives in Bengaluru, India 🇮🇳</p>
 
+
 <hr/>
 
 <p> 💫 Twitter: https://twitter.com/pvenk </p>
 <p> 🎈 LinkedIn: https://www.linkedin.com/in/pvenk/</p>
 <p> ✨ DevTo: https://dev.to/prasann</p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasann" alt="prasann" /> </p>
