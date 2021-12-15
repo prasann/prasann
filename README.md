@@ -6,7 +6,7 @@
 
 <p><b>💻 Full stack developer</b> with expertise in building UIs and automating infrastructure. I code in Java, Javascript, Ruby, Clojure </p>
 <p> 🏢 Works as  <b> Lead Developer </b> <a href="https://github.com/thoughtworks">@thoughtworks</a>. 🏙 Lives in Bengaluru, India 🇮🇳</p>
-
+<p> 🎓 AWS Certified Solution Architect (AWS SAA) </p>
 
 <hr/>
 
