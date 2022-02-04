@@ -2,7 +2,7 @@
 
 <h2 align="center">Building and leading development teams that build high-performance enterprise solutions</h2>
 
-<p align="left"> ✍🏼 Writes in: https://prasans.info</p>
+<p align="left"> ✍🏼 Writes in: https://prasanna.dev</p>
 
 <p><b>💻 Full stack developer</b> with expertise in building UIs and automating infrastructure. I code in Java, Javascript, Ruby, Clojure </p>
 <p> 🏢 Works as  <b> Lead Developer </b> <a href="https://github.com/thoughtworks">@thoughtworks</a>. 🏙 Lives in Bengaluru, India 🇮🇳</p>
