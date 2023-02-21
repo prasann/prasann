@@ -4,9 +4,15 @@
 
 <p align="left"> ✍🏼 Writes in: https://prasanna.dev</p>
 
-<p><b>💻 Full stack developer</b> with expertise in building UIs and automating infrastructure. I code in Java, Javascript, Ruby, Clojure </p>
-<p> 🏢 Works as  <b> Lead Developer </b> <a href="https://github.com/thoughtworks">@thoughtworks</a>. 🏙 Lives in Bengaluru, India 🇮🇳</p>
-<p> 🎓 AWS Certified Solution Architect (AWS SAA) </p>
+<hr/>
+
+<p>I’m a full-stack developer based out of Bengaluru (India) with experience in building and leading development teams that build high-performance enterprise platforms and products.</p>
+
+<p>Computer science engineer, with a master’s degree in Software systems and currently working with <a href="https://github.com/microsoft">@Microsoft</a>.</p>
+
+<p>Ex-<a href="https://github.com/thoughtworks">@thoughtworks</a>, certified AWS solution architect and have hands-on experience with web technologies.</p>
+
+Since you are here, do visit my [blogs](https://www.prasanna.dev/blog) for my random writings
 
 <hr/>
 
