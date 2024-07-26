@@ -10,7 +10,7 @@
 
 <p>Computer science engineer, with a master’s degree in Software systems and currently working with <a href="https://github.com/microsoft">@Microsoft</a>.</p>
 
-<p>Ex-<a href="https://github.com/thoughtworks">@thoughtworks</a>, certified AWS solution architect and have hands-on experience with web technologies.</p>
+<p>Ex-<a href="https://github.com/thoughtworks">@thoughtworks</a>, certified Azure AI Engineer, certified AWS solution architect and have hands-on experience with web technologies.</p>
 
 Since you are here, do visit my [blogs](https://www.prasanna.dev/blog) for my random writings
 
