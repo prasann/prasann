@@ -17,7 +17,7 @@ Since you are here, do visit my [blogs](https://www.prasanna.dev/blog) for my ra
 <hr/>
 
 <p> 💫 Twitter: https://twitter.com/pvenk </p>
-<p> 🎈 LinkedIn: https://www.linkedin.com/in/pvenk/</p>
+<p> 🎈 LinkedIn: https://www.linkedin.com/in/prasanna-v-nagarajan/</p>
 <p> ✨ DevTo: https://dev.to/prasann</p>
 
 
